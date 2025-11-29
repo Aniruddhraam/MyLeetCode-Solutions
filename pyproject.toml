@@ -1,0 +1,9 @@
+[project]
+name = "leetcode-solutions"
+version = "0.1.0"
+description = "Common venv for all leetcode solutions"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+]
